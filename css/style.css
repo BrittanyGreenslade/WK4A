@@ -1,3 +1,6 @@
+html {
+  font-size: 30px;
+}
 body {
   background: #fecb56;
 }
@@ -5,29 +8,41 @@ body {
   padding-top: 2%;
   margin: 2% 2%;
 }
+.colouredColumns {
+  font-size: 0.5rem;
+}
+h1 {
+  font-size: 40pt;
+}
+p {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1rem;
+}
 #red {
-  width: 22.5vw;
+  width: 22vw;
   height: 80vh;
   background: #ed3f3c;
   display: inline-block;
   border: 4px solid black;
 }
 #green {
-  width: 22.5vw;
+  width: 22vw;
   height: 80vh;
   background: #44b24e;
   display: inline-block;
   border: 4px solid black;
 }
 #blue {
-  width: 22.5vw;
+  width: 22vw;
   height: 80vh;
   background: #435fcd;
   display: inline-block;
   border: 4px solid black;
 }
 #purple {
-  width: 22.5vw;
+  width: 22vw;
   height: 80vh;
   background: #a353a4;
   display: inline-block;
